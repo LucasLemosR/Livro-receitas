@@ -1,4 +1,6 @@
-# Olá
+# Livro de receitas :man_cook:
 
-stá é uma receita
+###Olá! Bem-vindos ao meu livro de receitas.
 
+- Strogonoff
+- Pavê
