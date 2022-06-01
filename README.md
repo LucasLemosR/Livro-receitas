@@ -1,6 +1,8 @@
-# Livro de receitas :man_cook:
+- # Livro de receitas 👨‍🍳
 
-###Olá! Bem-vindos ao meu livro de receitas.
+  ### Olá! Bem-vindos ao meu livro de receitas.
 
-- Strogonoff
-- Pavê
+
+  - Strogonoff
+  - Pavê
+  - Bolo de cenoura
